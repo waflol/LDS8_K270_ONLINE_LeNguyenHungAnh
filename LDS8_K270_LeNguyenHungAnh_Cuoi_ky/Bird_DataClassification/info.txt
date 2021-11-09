@@ -1,0 +1,2 @@
+0,vet
+1,chim_vang_anh
